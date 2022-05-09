@@ -2,7 +2,7 @@
  * @Author: vacrain
  * @Date: 2022-05-10 05:23:45
  * @LastEditors: vacrain
- * @LastEditTime: 2022-05-10 05:50:33
+ * @LastEditTime: 2022-05-10 05:52:03
  * @FilePath: /nest-001/README.md
  * @Description:
  *
@@ -11,6 +11,7 @@
 # nestjs
 
 ```
+pnpm run install
 pnpm run start:dev
 
 然后访问 localhost:3000/app1
