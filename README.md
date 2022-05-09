@@ -1,3 +1,21 @@
+<!--
+ * @Author: vacrain
+ * @Date: 2022-05-10 05:23:45
+ * @LastEditors: vacrain
+ * @LastEditTime: 2022-05-10 05:50:33
+ * @FilePath: /nest-001/README.md
+ * @Description:
+ *
+-->
+
+# nestjs
+
+```
+pnpm run start:dev
+
+然后访问 localhost:3000/app1
+```
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
